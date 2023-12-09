@@ -1,0 +1,23 @@
+body{
+    background-color: burlywood !important;
+}
+
+#mainContentContainer{
+    height: fit-content;
+    width: fit-content;
+    padding: 20px;
+    background-color:cadetblue;
+    transform: translate(0%, 50%);
+}
+
+#display{
+    height: 50px;
+}
+
+.numButton{
+    height: 30px !important;
+    width: 30px !important;
+    margin: 7px;
+    background-color: aliceblue;
+    cursor: pointer;
+}
